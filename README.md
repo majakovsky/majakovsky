@@ -4,7 +4,7 @@ My name is Dmitry and here is some information about me:
 - 🔭 I’m currently working on frontend developer
 - 🌱 I’m currently learning at FEDERAL STATE EDUCATIONAL BUDGETARY INSTITUTION OF HIGHER EDUCATION "FINANCIAL UNIVERSITY UNDER THE GOVERNMENT OF THE RUSSIAN FEDERATION"
 - 🤔 I’m looking for help with frontend and backend developer
-- 📫 How to reach me: majakovskyda@gmail.com
+- 📫 How to reach me: majakovskyda@gmail.com or you can use telegram @d_majakovsky 
 
 
 <div id="header" align="center">
