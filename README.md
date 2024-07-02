@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/majakovskyryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+### Github Trophy <!--& Kaggle Badge <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kazuhito00/competition/light" height="110px"> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=majakovsky&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ℹ️ My name is Dmitry. I am from Russia, Moscow.
 
