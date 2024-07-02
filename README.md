@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
+
 ℹ️ My name is Dmitry. I am from Russia, Moscow.
 
 🎓 Currently studying at a [Financial University under the Government of the Russian Federation](https://en.fa.ru/) at the faculty of applied Informatics
