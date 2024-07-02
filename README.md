@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
+![trophy](https://github-profile-trophy.vercel.app/?majakovsky=ryo-ma&theme=matrix)
 
 ℹ️ My name is Dmitry. I am from Russia, Moscow.
 
