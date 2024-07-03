@@ -1,4 +1,5 @@
-### Hi there 👋
+#![main](https://github.com/majakovsky/majakovsky/assets/90866868/c63c527b-23d9-478a-89df-1abe130e742b)
+
 
 ### Github Trophy <!--& Kaggle Badge <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kazuhito00/competition/light" height="110px"> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=majakovsky&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy)
