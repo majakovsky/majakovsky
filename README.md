@@ -1,4 +1,10 @@
-#![main](https://github.com/majakovsky/majakovsky/assets/90866868/c63c527b-23d9-478a-89df-1abe130e742b)
+<p align="center">
+ <img src="https://github.com/majakovsky/majakovsky/assets/90866868/c63c527b-23d9-478a-89df-1abe130e742b" width="500"" />
+</p>
+
+
+  
+
 
 
 ### Github Trophy <!--& Kaggle Badge <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kazuhito00/competition/light" height="110px"> -->
