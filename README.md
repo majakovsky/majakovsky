@@ -11,3 +11,12 @@
 <p align="center">
  <img src="https://github.com/majakovsky/majakovsky/assets/90866868/c63c527b-23d9-478a-89df-1abe130e742b" width="500"" />
 </p>
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=majakovsky&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
